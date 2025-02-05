@@ -1,2 +1,2 @@
 # Chatapp
-Chatapp built in swift using AlexSideBae
+Chatapp built in swift using AlexSideBar
